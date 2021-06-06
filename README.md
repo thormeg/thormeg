@@ -1,16 +1,15 @@
-### Python Engineer
+<h1 align="center">Hi 👋, I'm Thormeg (Darren Blair)</h1>
+<h2 align="center">I'm a freelance software engineer based in France</h3>
+<h3 align="center">Previously a senior QA engineer, I am currently working in software development, mainly using Python.</h3>
 
-<!--
-**thormeg/thormeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I’m looking to collaborate on any projects that seek to improve the lives of those in developing countries or on low/no income.
 
-Here are some ideas to get you started:
+- I am also interested in any open source projects based on decentralisation or empowering individuals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I’m currently working on **my own home intranet project**.
+
+- I’m currently learning to use the **Django** framework.
+
+- I am currently studying **Rust**.
+
+- You can reach me at [contact@thormeg.com](mailto:contact@thormeg.com)
