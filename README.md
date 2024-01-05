@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Thormeg (Darren Blair)</h1>
-<h2 align="center">I'm a freelance software engineer based in France</h3>
-<h3 align="center">Previously a senior QA engineer, I am currently working in software development, mainly using Python and the AWS stack.</h3>
+<h3 align="center">Software Engineer with extensive QA experience. Keenly interested in Cybersecurity.</h3>
 
-- I’m looking to collaborate on any projects that seek to improve the lives of those in developing countries or on low/no income worldwide.
+- I am currently working as a Python/TypeScript/React engineer, leveraging the AWS stack.
+
+- I am open to  collaborate on any open source security tools.
+ 
+- I am looking to collaborate on any projects that seek to improve the lives of those in developing countries, or on low/no income worldwide.
 
 - I am also interested in any open source projects based on decentralisation or empowering individuals.
 
-- I’m currently working on **my own home intranet project**.
+- I am currently working towards a **[PNPT certification](https://certifications.tcm-sec.com/pnpt/)**.
 
-- I’m currently learning to use the **Django** framework.
-
-- I am currently studying **Javascript/Typescript**.
+- I am currently studying **Go**.
 
 - You can reach me at [contact@thormeg.com](mailto:contact@thormeg.com)
